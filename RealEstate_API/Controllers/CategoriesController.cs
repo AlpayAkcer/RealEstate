@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using RealEstate_API.Dtos.Category;
+using RealEstate.DTO.Category;
 using RealEstate_API.Repositories.CategoryRepository;
 
 namespace RealEstate_API.Controllers

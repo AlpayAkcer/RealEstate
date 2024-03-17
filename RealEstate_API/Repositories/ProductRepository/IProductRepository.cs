@@ -1,4 +1,4 @@
-﻿using RealEstate_API.Dtos.Products;
+﻿using RealEstate.DTO.Products;
 
 namespace RealEstate_API.Repositories.ProductRepository
 {

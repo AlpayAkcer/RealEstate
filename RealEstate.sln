@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.33927.210
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstate_UI", "RealEstate_UI\RealEstate_UI.csproj", "{58F3FA0F-9DD4-47CF-9DA8-3415C720294B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealEstate_UI", "RealEstate_UI\RealEstate_UI.csproj", "{58F3FA0F-9DD4-47CF-9DA8-3415C720294B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstate_API", "RealEstate_API\RealEstate_API.csproj", "{38C56408-78CD-4301-BEB2-B97CCC8A8B82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealEstate_API", "RealEstate_API\RealEstate_API.csproj", "{38C56408-78CD-4301-BEB2-B97CCC8A8B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstate.DTO", "RealEstate.DTO\RealEstate.DTO.csproj", "{B51DA9E9-50A0-4F9B-91B5-6030FB2EE48F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{38C56408-78CD-4301-BEB2-B97CCC8A8B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C56408-78CD-4301-BEB2-B97CCC8A8B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38C56408-78CD-4301-BEB2-B97CCC8A8B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51DA9E9-50A0-4F9B-91B5-6030FB2EE48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51DA9E9-50A0-4F9B-91B5-6030FB2EE48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51DA9E9-50A0-4F9B-91B5-6030FB2EE48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51DA9E9-50A0-4F9B-91B5-6030FB2EE48F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

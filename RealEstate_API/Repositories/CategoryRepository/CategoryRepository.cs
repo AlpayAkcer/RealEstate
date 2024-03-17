@@ -1,5 +1,5 @@
 ﻿using Dapper;
-using RealEstate_API.Dtos.Category;
+using RealEstate.DTO.Category;
 using RealEstate_API.Models.DapperContext;
 
 namespace RealEstate_API.Repositories.CategoryRepository

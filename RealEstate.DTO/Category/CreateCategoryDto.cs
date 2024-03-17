@@ -1,4 +1,4 @@
-﻿namespace RealEstate_API.Dtos.Category
+﻿namespace RealEstate.DTO.Category
 {
     public class CreateCategoryDto
     {
